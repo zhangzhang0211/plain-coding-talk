@@ -1,0 +1,4 @@
+interface:
+  display_name: "写代码时说人话"
+  short_description: "用简短直白的中文说明代码工作，禁用包装词和空话，准确保留必要术语。"
+  default_prompt: "使用 $plain-coding-talk，用简短直白的中文说明代码工作，不用包装词，准确保留必要术语。"
